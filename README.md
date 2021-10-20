@@ -21,6 +21,8 @@ In this part, you will obtain as much data as you can on the campaign contributi
     d. How often does the incumbent candidate win a race?  
     e. Can you detect any relationship between amount of money raised and the incumbent status of a candidate?
 
+**Answers to the above for CJH in file charre2021-First_Run.ipynb. Primary code for dataframe for all candidates is also located in that file.**
+
 ### Bonus Questions:
 If you complete all of the above, you can attempt these challenging bonus questions.
 
@@ -30,3 +32,8 @@ Scrape these pages to get information on contributions by source. See if you can
 * What does the overall distribution of funding sources look like?
 * Is there any detectable difference in contribution sources between Democrat and Republican candidates?
 * Do the funding sources for either the winning candidate or incumbent candidate differ from the other candidates?
+
+**Answers to first part of the above for CJH in file charre2021-Bonus_Questions_Base.ipynb, then charre2021-Bonus_Questions_Exploration.ipynb. **
+
+**Also, pulled in some additional contributor data for more exploration in charre2021-Pull_the_Top_Contributors.ipynb.**
+
